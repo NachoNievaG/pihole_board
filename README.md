@@ -8,6 +8,7 @@ PASSWORD=123123123 docker-compose up -d
 
 ## Roadmap:
 - [ ] Add rpi related stats to visualize through grafana as well.
+- [ ] Configuration for default DHCP server.
 
 ## Acknowledgments
 - [Pi-Hole](https://github.com/pi-hole/pi-hole)
